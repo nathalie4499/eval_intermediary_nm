@@ -1,19 +1,16 @@
 {
-    "name": "etudiant/server-lesson",
-    "description": "blabla",
-    "type": "project",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "matthieu88160",
-            "email": "matthieu.vallance@cscfa.fr"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
-    	"psr-4": {
-			"": "src/"
-    	}
-    }
+	"name" : "etudiant/server-lesson",
+	"type" : "project",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "nathalie4499",
+			"email" : "nathalie.montois@outlook.com"
+		}
+	],
+	"minimum-stability" : "dev",
+	"autoload" : {
+		"psr-4" : {
+			"" : "src/"
+		}
+	}
 }
